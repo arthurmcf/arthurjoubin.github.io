@@ -3,6 +3,7 @@ languageCode = "fr"
 title = "Arthur Joubin Blog"
 theme = "yinyang"
 DefaultContentLanguage = "fr"
+publishDir = "docs"
 
 [author]
   name = "Arthur Joubin"

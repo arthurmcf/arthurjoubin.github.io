@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mcf on Arthur Joubin Blog</title>
+    <link>https://arthurjoubin.github.io/tags/mcf/</link>
+    <description>Recent content in mcf on Arthur Joubin Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://arthurjoubin.github.io/tags/mcf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatisation des tsts</title>
+      <link>https://arthurjoubin.github.io/posts/automatisation-de-tests/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://arthurjoubin.github.io/posts/automatisation-de-tests/</guid>
+      <description>Tests du Publisher et Downloader    Module Test à effectuer     Publisher ALL : Ajout d&amp;rsquo;un mot clé entraine la publication    GED : Case à cocher entraine la publication    Files : Suppression supprime de MC    Publisher :
+ GED : Case à cocher entraine publisher Files : Couper/coller entraine publication et suppression Files : Copier/Coller entraine publication All : Déplacement entraine publication GED : Modification métadonnées entraine publication Files : Ajout d&amp;rsquo;un mot clé entraine la publication All : Nouveau client entraine rescan complet du client   Downloader :</description>
+    </item>
+    
+  </channel>
+</rss>
