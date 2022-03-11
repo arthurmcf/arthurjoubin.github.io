@@ -15,7 +15,6 @@ publishDir = "docs"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
@@ -25,4 +24,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "A propos"
-link = "/about"
+link = "/apropos"

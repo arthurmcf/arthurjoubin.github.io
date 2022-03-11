@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [author]
   name = "Arthur Joubin"
-  homepage = "https://joway.io/"
+  homepage = "https://www.linkedin.com/in/arthur-joubin/"
 
 [languages]
   [languages.fr]
@@ -24,4 +24,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "A propos"
-link = "/about"
+link = "/apropos"
