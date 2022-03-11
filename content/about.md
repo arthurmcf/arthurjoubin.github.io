@@ -1,18 +1,15 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "Arthur Joubin"
+date = "2022-0-11"
 menu = "main"
+
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Chef de produit chez MyCompanyFiles, spécialisé dans le monde de l'expertise comptable.
 
-It makes use of a variety of open source projects including:
+* https://www.linkedin.com/in/arthur-joubin/
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Co-fondateur et rédacteur de Totem Analyse, spécialisé dans l'investissement en bourse avec thèses originales.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* https://totemanalyse.com
 
