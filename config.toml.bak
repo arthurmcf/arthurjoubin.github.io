@@ -1,0 +1,27 @@
+baseURL = "https://example.com"
+languageCode = "fr"
+title = "Arthur Joubin Blog"
+theme = "yinyang"
+DefaultContentLanguage = "fr"
+
+[author]
+  name = "Arthur Joubin"
+  homepage = "https://joway.io/"
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+
+[params]
+disqus = "joway" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "S'abonner"
+link = "/index.xml"
+
+[[params.socials]]
+name = "A propos"
+link = "/about"
